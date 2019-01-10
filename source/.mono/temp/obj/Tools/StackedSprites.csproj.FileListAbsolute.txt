@@ -1,0 +1,6 @@
+F:\Desktop\StackedSprites\.mono\temp\bin\Tools\StackedSprites.dll
+F:\Desktop\StackedSprites\.mono\temp\bin\Tools\StackedSprites.pdb
+F:\Desktop\StackedSprites\.mono\temp\obj\Tools\StackedSprites.csprojAssemblyReference.cache
+F:\Desktop\StackedSprites\.mono\temp\obj\Tools\StackedSprites.csproj.CoreCompileInputs.cache
+F:\Desktop\StackedSprites\.mono\temp\obj\Tools\StackedSprites.dll
+F:\Desktop\StackedSprites\.mono\temp\obj\Tools\StackedSprites.pdb
