@@ -1,6 +1,6 @@
 # SpriteStacker
 
-[](https://imgur.com/q7kkfad.png)
+[https://i.imgur.com/q7kkfad.png](https://imgur.com/q7kkfad.png)
 
 Spritestacker is tool to make drawing sprite stack easier. It features a Layer system for the Z axis and a live preview of the final render.
 
